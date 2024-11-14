@@ -1,6 +1,5 @@
 body {
     font-family: Arial, Helvetica sans-serif; 
-    text-align: center;
 }
 h1{
     color: darkgreen;
@@ -14,5 +13,13 @@ img {
     width: 30%;
 }
 ol {
-    border: 1px solid #93c706;
+    text-align: left;
+}
+
+h2 {
+    text-align: left;
+}
+div {
+    width: 50%;
+    text-align: center; 
 }
